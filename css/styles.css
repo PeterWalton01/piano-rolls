@@ -50,21 +50,21 @@ blockquote {
   font-family: Helvetica, sans-serif;
   font-style: italic;
   text-align: center;
-  font-weight: lighter;
+  font-weight: bold;
 }
 
 .label01 h3 {
   font-family: Helvetica, sans-serif;
   font-style: italic;
   text-align: center;
-  font-weight: lighter;
+  font-weight: bold;
   margin-bottom: 0rem;
 }
 
 .detail h4 {
   font-family: Helvetica, sans-serif;
   text-align: center;
-  font-weight: lighter;
+  font-weight: bold;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   margin-top: 0.4rem;
